@@ -1,0 +1,122 @@
+{
+  "FULL_BRAND_NAME": "{{displayName}}",
+  "global": {
+    "WEB_PAGE_TITLE": "{{productName}}",
+    "WATERMARK": "{{displayName}}",
+    "DEFAULT_MEETING_NAME": "{{productName}} meeting",
+    "APPLICATION": "{{displayName}}"
+  },
+  "invite": {
+    "INVITE_SUBJ": "参与 {{productName}} 会议"
+  },
+  "screenSharingError": {
+    "APPLICATION": "RingCentral"
+  },
+  "feedbackModal": {
+    "CLIENT_NAME_WEB": "{{productName}} Web",
+    "CLIENT_NAME_DESKTOP": "{{productName}} Desktop"
+  },
+  "ACCESS_RESTRICTIONS": {
+    "WRONG_VIDEO_PROVIDER": "You do not have access to {{productName}}. Please update you Video Provider setting and try again."
+  },
+  "terminals": {
+    "WEB_PAGE_TITLE_TERMINATED": "Disconnected from {{productName}}"
+  },
+  "outlook": {
+    "MESSAGE_TITLE": "{{hostName}}'s {{productName}} meeting",
+    "SIGN_UP_INVITATION": "New to {{displayName}}?",
+    "SIGN_UP_LINK": "https://www.ringcentral.com/office/plansandpricing.html",
+    "SIGN_UP_TITLE": "Easily schedule {{productName}} meetings directly in Outlook!"
+  },
+  "DOWNLOAD": {
+    "DOWNLOAD_BTN": "Download {{displayName}}",
+    "GREETINGS_NO_NAME": "Welcome to {{productName}}",
+    "DOWNLOAD_TIP": {
+      "APPLICATION": "{{displayName}}"
+    },
+    "alreadyInstalled": {
+      "FIRST": "Already have the {{displayName}} app?"
+    }
+  },
+  "LAUNCHER": {
+    "REOPEN_BTN": "Open {{displayName}}",
+    "REINSTALL_TIP": {
+      "APPLICATION": "{{displayName}}"
+    }
+  },
+  "PLUGIN_PAGE": {
+    "DESCRIPTION": "Install RC Add-on for Outlook"
+  },
+  "footer": {
+    "logolink": "https://www.ringcentral.com/",
+    "copyright": "© 1999-{{year}} RingCentral, Inc. All rights reserved.",
+    "ringCentralTrademark": "All other marks, logos, designs and otherwise are the trademarks and intellectual property of RingCentral, Inc.",
+    "links": {
+      "contact_us": {
+        "text": "Contact Us",
+        "href": "https://www.ringcentral.com/whyringcentral/contactus.html"
+      },
+      "about": {
+        "text": "About RingCentral",
+        "href": "https://www.ringcentral.com/whyringcentral/company.html"
+      },
+      "partners": {
+        "text": "Affiliates and Partners",
+        "href": "https://www.ringcentral.com/partner/overview.html"
+      },
+      "legal": {
+        "text": "Legal",
+        "href": "https://www.ringcentral.com/legal.html"
+      },
+      "privacy": {
+        "text": "Privacy Notice",
+        "href": "https://www.ringcentral.com/legal/privacy-notice.html"
+      },
+      "site_map": {
+        "text": "Site Map",
+        "href": "https://www.ringcentral.com/sitemap.html"
+      },
+      "BBB": {
+        "href": "https://www.bbb.org/"
+      },
+      "skyhigh": {
+        "href": "https://www.skyhighnetworks.com/enterprise-ready/"
+      },
+      "trustare": {
+        "href": "https://sealserver.trustkeeper.net/compliance/cert.php?code=331bb3cfa0cf06b30cd5fafd57e7188e"
+      }
+    }
+  },
+  "cameraError": {
+    "UNLOCK_CAMERA_ELECTRON_MAC": {
+      "APPLICATION": "RingCentral"
+    },
+    "UNLOCK_CAMERA_ELECTRON_WIN": {
+      "APPLICATION": "RingCentral"
+    }
+  },
+  "schedule": {
+    "scheduleModal": {
+      "DEFAULT_NAME": "{{name}}'s {{productName}} meeting",
+      "ICAL_FILENAME": "{{productName}}.ics"
+    }
+  },
+  "UNSUPPORTED": {
+    "UPDATE_READY": {
+      "UPDATE_INSTRUCTION": "{{displayName}} has a new version.\nRestart the app to auto-upgrade."
+    }
+  },
+  "audioJoin": {
+    "MIC_BLOCKED_MSG": {
+      "UNLOCK_MIC_ELECTRON_MAC": {
+        "APPLICATION": "RingCentral"
+      },
+      "UNLOCK_MIC_ELECTRON_WIN": {
+        "APPLICATION": "RingCentral"
+      }
+    }
+  },
+  "teleconference": {
+    "title": "{{productName}}"
+  }
+}
